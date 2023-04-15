@@ -1,0 +1,10 @@
+echo "$USER bonsoir coucou" '$USER hello' "qwe"
+export a=a b=b c=c d=d e=e l=
+bash-3.2$ echo "'$USER'"
+'dojannin'
+bash-3.2$ echo "'$US'"
+''
+bash-3.2$ echo "'$US  lol fft'"
+'  lol fft'
+bash-3.2$ 
+	ls | pwd | ok || << "" ""
